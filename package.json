@@ -1,0 +1,16 @@
+{
+  "name": "bug-src-mapper-pie",
+  "productName": "Bug To Source Mapper Pie",
+  "version": "0.0.1",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
+  "description": "Displays top 20 buggy files.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/bug-src-mapper-pie"
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "certificate"
+  }
+}
